@@ -1,8 +1,8 @@
 
 # SEO settings
-title: "title1"
-title2: "title2" # default: ""
-description: "description."
+title: "jay"
+title2: "Log" # default: ""
+description: "Hello World."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
@@ -29,8 +29,8 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
-  job      : "Software Engineer"
+  name     : "Namyoon Kim"
+  job      : "hobbyst coder"
   bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
   thumb    : /images/author.jpg
   email    : hnrird@gmail.com

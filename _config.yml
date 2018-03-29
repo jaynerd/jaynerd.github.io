@@ -29,7 +29,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Namyoon Bryan Kim"
+  name     : "Namyoon"
   job      : "CS student at AUT"
   bio      : ""
   thumb    : /images/author.jpg
@@ -51,8 +51,8 @@ gems:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
+  - slug : bio
+    title: Bio
   - slug : blog
     title: Blog
 

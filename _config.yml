@@ -1,8 +1,8 @@
 
 # SEO settings
-title: "Test"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
+title: "title1"
+title2: "title2" # default: ""
+description: "description."
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "" # apply repo name if use it under gh-pages branch

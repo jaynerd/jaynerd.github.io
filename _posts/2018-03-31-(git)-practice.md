@@ -1,27 +1,26 @@
 ---
 layout: post
-title: "git) git practice"
+title: "(git) git practices"
 description: ""
 comments: false
-keywords: "Machine Learning"
+keywords: "git, github, version control"
 ---
 
 ### git status
 
 any changes?
 
-### git add
+### git add / add file.txt
 
-to the stage.\n
-. = everything, *.txt = wild card for txt types.
+to the stage! . = everything, *.txt = wild card for txt types.
 
-### git commit -m ""
+### git commit -m "messages"
 
-commiting to the local repo.
+commiting to the local repo with a message.
 
 ### git log
 
-list of commit logs.
+showing a list of committed logs.
 
 ### git remote add origin https://github.com/jaynerd/sample.git
 
@@ -29,7 +28,7 @@ create a remote repo on github and pushing files from origin.
 
 ### git push -u origin master
 
-does the same but -u saves the command as a parameter.
+does the same (publishing) but -u saves the command as a parameter for convenience.
 
 ### git pull origin master
 

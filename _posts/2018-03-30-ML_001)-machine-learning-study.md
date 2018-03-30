@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "(ML_001) Machine Learning Study"
+title: "ML_001) Machine Learning Study"
 description: ""
 comments: false
 keywords: "Machine Learning"

@@ -34,4 +34,6 @@ does the same (publishing) but -u saves the command as a parameter for convenien
 
 pulls any changes contributed by other users.
 
+### git diff HEAD
+
 > This content was written based on the learning process of try-git at https://try.github.io

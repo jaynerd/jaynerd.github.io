@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Machine Learning Study 001"
+title: "(ML-001) Machine Learning Study"
 description: ""
 comments: false
 keywords: "Machine Learning"
@@ -20,4 +20,4 @@ Learning with labeled examples (training set).
 
 Gathering 
 
-> This content was written based on the lecture of professor Sung Kim http://hunkim.github.io/ml
+> This content was written based on the lectures of professor Kim http://hunkim.github.io/ml

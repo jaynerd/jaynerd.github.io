@@ -51,8 +51,8 @@ gems:
 
 # navbar pages
 navbar:
-  - slug : bio
-    title: Bio
+  - slug : about
+    title: About
   - slug : blog
     title: Blog
 

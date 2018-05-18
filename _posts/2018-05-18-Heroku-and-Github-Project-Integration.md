@@ -17,6 +17,7 @@ keywords: "heroku, github, git, integration"
 			cd YOUR-APP-NAME
 	
 	step 02: Change the remote repo from heroku to github and push
+             * make a github repo before proceeding			
 			
 			git remote -v
 			git remote set-url origin YOUR-GIT-REPOSITORY.git
@@ -29,3 +30,5 @@ keywords: "heroku, github, git, integration"
 	step 03: connect heroku's depoyment service to github
 	
 			shoulb be done on heroku's website
+			
+> This content was written based on the tutorial section of http://yoogomja.tistory.com
